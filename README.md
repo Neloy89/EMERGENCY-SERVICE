@@ -36,7 +36,7 @@ The system follows the Incremental Development Model, focusing on iterative deve
 ## Installation
 
 1. Clone the repository:  
-   `git clone git@github.com:Neloy89/EMERGENCY-SERVICES.git`
+   `git clone git@github.com:Neloy89/EMERGENCY-SERVICE.git`
 
 2. Open the project in **Microsoft Visual Studio 2022**.
 
